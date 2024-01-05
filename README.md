@@ -51,10 +51,16 @@ npm start
 # Testing
 After the backend server and frontend app is running, go to ```http://localhost:3000``` (it will open automatically, if it doesn't then open manually)
 The web page should look like this:
+![todo-app-loginpage](https://github.com/Adii285/todo-app-rise11/assets/75719536/da24b80a-a91a-4e68-a643-d2a9a92a71eb)
+
 
 Register as a new user and enter your details and then return back to the login page and login to your new creater account.
 The page should look like this:
+![todo-app-register](https://github.com/Adii285/todo-app-rise11/assets/75719536/12786aba-b118-464b-b127-691b9bc11640)
+
 
 Test the application by adding new tasks, deleting tasks and marking the tasks as completed using the checkbox.
+![todo-app-taskspage](https://github.com/Adii285/todo-app-rise11/assets/75719536/7eb894a3-4d9e-4180-a2d3-93569574cc64)
+
 
 All the details are stored in the database we created so the details will stay even after logging out and logging in again.
